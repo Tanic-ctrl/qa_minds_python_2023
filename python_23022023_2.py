@@ -6,3 +6,5 @@ for index in range(1,11):
 
 for linea in range(1, 7):
     print(linea * "*")
+
+    NO TENGO IDEA DE LO QUE ESTOY HACIENDO

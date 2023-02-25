@@ -42,3 +42,5 @@ if valid_height and valid_height:
     print ("Can aboard")
     else
     print ()
+
+    printeror
